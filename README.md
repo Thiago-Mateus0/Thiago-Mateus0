@@ -12,13 +12,10 @@ só entra em produção código que eu consigo explicar linha por linha.
 
 **Stack principal**
 
-`Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `Python` · `FastAPI`
+`Next.js` · `TypeScript` · `PostgreSQL` · `Python` · `FastAPI`
 
 **Projetos em destaque**
 
-- 🏗️ [LIFETRAILER](link-do-repo) — sistema de gestão via tablets, em produção
-- 💰 [Arkhé Finance](link-do-repo) — CLI em Python evoluído para API REST com FastAPI
-- 🍔 [BurguerScore](link-do-repo) — app de avaliação, feito em dupla com Next.js e Supabase
 
 **Contato**
 

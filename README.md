@@ -1,22 +1,40 @@
-### Thiago Mateus
+]🇺🇸 English | 🇧🇷 Português
 
-Estudante de Ciência da Computação na Afya UNIMA, construindo minha base em
-desenvolvimento com foco em back-end e arquitetura de sistemas.
+Hi, I'm Thiago 👋
 
-Atualmente desenvolvo e mantenho um sistema real em produção para a
-Lifetrailer Studio — do design do banco de dados até a integração com
-plataformas externas via webhooks.
+Computer Science student (Afya UNIMA, Maceió, Brazil) and in-house developer at Lifetrailer Studio, a photography studio. I started programming in 2026 and I prefer building things I can explain line by line.
 
-Uso ferramentas de IA no meu fluxo de trabalho, com uma regra pessoal:
-só entra em produção código que eu consigo explicar linha por linha.
+🎓 Currently in the 2nd semester of Computer Science
+💼 In-house developer at Lifetrailer Studio, where I build a kiosk management system for the studio's tablets
+📍 Maceió, Alagoas, Brazil
+🚀 Looking for my first Junior Full Stack Developer role
+🛠️ Tech Stack
 
-**Stack principal**
+Frontend
 
-`Next.js` · `TypeScript` · `PostgreSQL` · `Python` · `FastAPI`
+Mostrar Imagem
 
-**Projetos em destaque**
+Backend & Languages
 
+Mostrar Imagem
 
-**Contato**
+Database
 
-[LinkedIn](www.linkedin.com/in/thiagomateus-tech) · thiago.mateustech@gmail.com
+Mostrar Imagem
+
+DevOps & Tools
+
+Mostrar Imagem
+
+📂 Projects
+Lifetrailer: kiosk-mode management system for Lifetrailer Studio's tablets.
+Arkhé Finance: REST API built with FastAPI (deployed on Render) and a GitHub Pages frontend. It categorizes transactions, accepts manual entries and imports CSV files.
+Study Track: Python CLI that logs the subject, time and date of each study session and calculates monthly totals.
+BurguerScore: app built with Next.js, TypeScript and Supabase, made together with Isabel.
+📈 Stats
+
+Mostrar Imagem Mostrar Imagem
+
+📫 Contact
+
+GitHub Email

@@ -34,7 +34,7 @@ Computer Science student (Afya UNIMA, Maceió, Brazil) and in-house developer at
 - **Lifetrailer**: kiosk-mode management system for Lifetrailer Studio's tablets.
 - **Arkhé Finance**: REST API built with FastAPI (deployed on Render) and a GitHub Pages frontend. It categorizes transactions, accepts manual entries and imports CSV files.
 - **Study Track**: Python CLI that logs the subject, time and date of each study session and calculates monthly totals.
-- **BurguerScore**: app built with Next.js, TypeScript and Supabase, made together with Isabel.
+
 
 ## 📫 Contact
 

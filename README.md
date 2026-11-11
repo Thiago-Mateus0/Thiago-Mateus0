@@ -7,13 +7,13 @@ Computer Science student (Afya UNIMA, Maceió, Brazil) and in-house developer at
 - 🎓 Currently in the 2nd semester of Computer Science
 - 💼 In-house developer at Lifetrailer Studio, where I build a kiosk management system for the studio's tablets
 - 📍 Maceió, Alagoas, Brazil
-- 🚀 Looking for my first Junior Full Stack Developer role
+- 🚀 Looking for an internship or my first Junior Full Stack Developer role
 
 ## 🛠️ Tech Stack
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=nextjs,ts,react)
+![Frontend](https://skillicons.dev/icons?i=vite,ts,react)
 
 **Backend & Languages**
 
@@ -21,7 +21,7 @@ Computer Science student (Afya UNIMA, Maceió, Brazil) and in-house developer at
 
 **Database**
 
-![Database](https://skillicons.dev/icons?i=postgres,sqlite,supabase)
+![Database](https://skillicons.dev/icons?i=postgres,sqlite)
 
 **DevOps & Tools**
 

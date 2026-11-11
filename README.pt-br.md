@@ -7,13 +7,13 @@ Estudante de Ciência da Computação (Afya UNIMA, Maceió/AL) e desenvolvedor i
 - 🎓 Cursando o 2º período de Ciência da Computação
 - 💼 Desenvolvedor in-house no Lifetrailer Studio, onde construo um sistema de gestão em modo quiosque para os tablets do estúdio
 - 📍 Maceió, Alagoas, Brasil
-- 🚀 Em busca da primeira vaga como Dev Full Stack Júnior
+- 🚀 Em busca de estágio ou da primeira vaga como Dev Full Stack Júnior
 
 ## 🛠️ Tecnologias
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=nextjs,ts,react)
+![Frontend](https://skillicons.dev/icons?i=vite,ts,react)
 
 **Backend e Linguagens**
 
@@ -21,7 +21,7 @@ Estudante de Ciência da Computação (Afya UNIMA, Maceió/AL) e desenvolvedor i
 
 **Banco de Dados**
 
-![Database](https://skillicons.dev/icons?i=postgres,sqlite,supabase)
+![Database](https://skillicons.dev/icons?i=postgres,sqlite)
 
 **DevOps e Ferramentas**
 

@@ -31,10 +31,10 @@ Computer Science student (Afya UNIMA, Maceió, Brazil) and in-house developer at
 
 ## 📂 Projects
 
-- **Lifetrailer**: kiosk-mode management system for Lifetrailer Studio's tablets.
-- **Arkhé Finance**: REST API built with FastAPI (deployed on Render) and a GitHub Pages frontend. It categorizes transactions, accepts manual entries and imports CSV files.
-- **Study Track**: Python CLI that logs the subject, time and date of each study session and calculates monthly totals.
-
+- **[Lifetrailer Studio](https://github.com/Thiago-Mateus0/lifetrailer-studio)**: kiosk-mode management system running in production on the tablets of a real photography studio. Business rules for money run inside Postgres (PL/pgSQL), with an append-only audit log, Altegio webhook integration and an AI assistant with spending caps. React + TypeScript, Node.js, PostgreSQL.
+- **Arkhé Finance**: personal finance app that imports Nubank CSVs, separates real spending from money passing through the account, and shows budgets, installments and subscriptions on mobile. Python, FastAPI, SQLite, React; 25 ADRs, automated tests and CI.
+- **Extrator ENEM**: reads official ENEM exam PDFs and outputs each question as JSON, flagging anything it is not sure it read correctly. Built for a study platform I'm developing with a partner. Python, PyMuPDF, sandboxed execution, tests and CI.
+- **[Study Track](https://github.com/Thiago-Mateus0/Study-Track)**: my first project, a Python CLI that logs study sessions and tracks a daily goal.
 
 ## 📫 Contact
 

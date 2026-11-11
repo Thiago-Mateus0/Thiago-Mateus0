@@ -7,13 +7,13 @@ Estudante de Ciência da Computação (Afya UNIMA, Maceió/AL) e desenvolvedor i
 - 🎓 Cursando o 2º período de Ciência da Computação
 - 💼 Desenvolvedor in-house no Lifetrailer Studio, onde construo um sistema de gestão em modo quiosque para os tablets do estúdio
 - 📍 Maceió, Alagoas, Brasil
-- 🚀 Em busca da primeira vaga como Dev Full Stack Júnior
+- 🚀 Em busca de estágio ou da primeira vaga como Dev Full Stack Júnior
 
 ## 🛠️ Tecnologias
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=nextjs,ts,react)
+![Frontend](https://skillicons.dev/icons?i=vite,ts,react)
 
 **Backend e Linguagens**
 
@@ -21,7 +21,7 @@ Estudante de Ciência da Computação (Afya UNIMA, Maceió/AL) e desenvolvedor i
 
 **Banco de Dados**
 
-![Database](https://skillicons.dev/icons?i=postgres,sqlite,supabase)
+![Database](https://skillicons.dev/icons?i=postgres,sqlite)
 
 **DevOps e Ferramentas**
 
@@ -31,10 +31,10 @@ Estudante de Ciência da Computação (Afya UNIMA, Maceió/AL) e desenvolvedor i
 
 ## 📂 Projetos
 
-- **Lifetrailer**: sistema de gestão em modo quiosque para os tablets do Lifetrailer Studio.
-- **Arkhé Finance**: API REST em FastAPI (deploy no Render) com frontend no GitHub Pages. Categoriza transações, aceita lançamentos manuais e importa CSV.
-- **Study Track**: CLI em Python que registra matéria, tempo e data de cada sessão de estudo e calcula os totais mensais.
-- **BurguerScore**: app em Next.js, TypeScript e Supabase, feito em parceria com a Isabel.
+- **[Lifetrailer Studio](https://github.com/Thiago-Mateus0/lifetrailer-studio)**: sistema de gestão em modo quiosque, em produção nos tablets de um estúdio de fotografia real. As regras de dinheiro rodam dentro do Postgres (PL/pgSQL), com log de auditoria append-only, integração por webhook com o Altegio e um assistente de IA com teto de gasto. React + TypeScript, Node.js, PostgreSQL.
+- **Arkhé Finance**: app de finanças pessoais que importa o CSV do Nubank, separa o que é gasto do que é só dinheiro passando pela conta e mostra orçamento, parcelas e assinaturas no celular. Python, FastAPI, SQLite, React; 25 ADRs, testes automatizados e CI.
+- **Extrator ENEM**: lê as provas oficiais do ENEM em PDF e entrega cada questão em JSON, sinalizando tudo que não tem certeza de ter lido direito. Feito para a plataforma de estudos que desenvolvo com um sócio. Python, PyMuPDF, execução em sandbox, testes e CI.
+- **[Study Track](https://github.com/Thiago-Mateus0/Study-Track)**: meu primeiro projeto, uma CLI em Python que registra sessões de estudo e controla uma meta diária.
 
 ## 📫 Contato
 

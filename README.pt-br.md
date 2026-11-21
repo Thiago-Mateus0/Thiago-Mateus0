@@ -25,7 +25,7 @@ Estudante de Ciência da Computação (Afya UNIMA, Maceió/AL) e desenvolvedor i
 
 **DevOps e Ferramentas**
 
-![Tools](https://skillicons.dev/icons?i=git,github,vercel,aws,linux)
+![Tools](https://skillicons.dev/icons?i=git,github,linux)
 
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com)
 
